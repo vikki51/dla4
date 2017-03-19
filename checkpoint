@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Downloads\\DL\\Assignment4\\secondcnn.ckpt"
+all_model_checkpoint_paths: "D:\\Downloads\\DL\\Assignment4\\secondcnn.ckpt"
